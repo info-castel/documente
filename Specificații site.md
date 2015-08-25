@@ -5,16 +5,16 @@ proinfo.uvvg.ro
 
 Curpins:
 
-- Scopul proiectului
-- Structura site-ului
-    - Obiective
-    - Publicul țintă
-        - Elevi și studenți
-        - Profesori
-        - Sponsori și parteneri
-- Buget
-    - Resurse necesare
-    - Cheltuieli
+- [Scopul proiectului](#scopul-proiectului)
+- [Structura site-ului](#structura-site-ului)
+    - [Obiective](#obiective)
+    - [Publicul țintă](#publicul-țintă)
+        - [Elevi și studenți](#elevi-și-studenți)
+        - [Profesori](#profesori)
+        - [Sponsori și parteneri](#sponsori-și-partener)
+- [Buget](#buget)
+    - [Resurse necesare](#resurse-necesare)
+    - [Cheltuieli](#cheltuieli)
 
 #Scopul proiectului
 
