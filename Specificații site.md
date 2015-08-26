@@ -25,6 +25,14 @@ Noua aplicație ar trebui să conțină o mare parte dintre lucrurile ce au fost
 
 ##Obiective
 
+- Modelarea unei unelte ce să faciliteze interacțiunea cu comunitatea clădită în jurul acestui eveniment
+- Adăugarea de funcționalități ce nu sunt prezente în cadrul aplicației curente:
+    - gestiune de utilizatori
+    - suport pentru propunere a prezentărilor, workshop-urilor sau a altor evenimente ce vor avea loc la ProInfo
+    - suport pentru votarea prezentărilor
+    - suport pentru feedback
+- Promovarea evenimentelui și a ideologiei
+
 ##Publicul țintă
 
 ###Elevi și studenți
