@@ -12,6 +12,7 @@ Curpins:
         - [Elevi și studenți](#elevi-și-studenți)
         - [Profesori](#profesori)
         - [Sponsori și parteneri](#sponsori-și-partener)
+        - [Comunitatea open-source](#comunitatea-open-source)
 - [Buget](#buget)
     - [Resurse necesare](#resurse-necesare)
     - [Cheltuieli](#cheltuieli)
@@ -35,11 +36,24 @@ Noua aplicație ar trebui să conțină o mare parte dintre lucrurile ce au fost
 
 ##Publicul țintă
 
+În continuare o să punctăm elementele pe care dorim să le adăugăm pentru fiecare categorie din publicul țintă pentru al acestui proiect.
+
 ###Elevi și studenți
+- posibilitatea de a vota prezentările pe care doresc să le vizioneze
+- posibilitatea de a rezerva loc la unul dintre evenimentele din cadrul evenimentului
 
 ###Profesori
+- posibilitatea de a vota prezentările pe care doresc să le vizioneze
 
 ###Sponsori și partener
+
+- posibilitatea de a deveni un sponsor
+
+###Comunitatea open-source
+
+- posibilitatea de a propune o prezentare sau un eveniment
+- posibilitatea de a oferi feedback organizatorilor
+- posibilitatea de a gestiona resurse ce sunt utile pentru comunitate
 
 #Buget
 
