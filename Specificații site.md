@@ -9,8 +9,7 @@ Curpins:
 - [Structura site-ului](#structura-site-ului)
     - [Obiective](#obiective)
     - [Publicul țintă](#publicul-țintă)
-        - [Elevi și studenți](#elevi-și-studenți)
-        - [Profesori](#profesori)
+        - [Participanți](#participanți)
         - [Sponsori și parteneri](#sponsori-și-partener)
         - [Comunitatea open-source](#comunitatea-open-source)
 - [Buget](#buget)
@@ -38,16 +37,13 @@ Noua aplicație ar trebui să conțină o mare parte dintre lucrurile ce au fost
 
 În continuare o să punctăm elementele pe care dorim să le adăugăm pentru fiecare categorie din publicul țintă pentru al acestui proiect.
 
-###Elevi și studenți
+###Participanți
 - posibilitatea de a vota prezentările pe care doresc să le vizioneze
 - posibilitatea de a rezerva loc la unul dintre evenimentele din cadrul evenimentului
 
-###Profesori
-- posibilitatea de a vota prezentările pe care doresc să le vizioneze
-
 ###Sponsori și partener
 
-- posibilitatea de a deveni un sponsor
+- posibilitatea de a deveni un sponsor sau partener al evenimentului
 
 ###Comunitatea open-source
 
