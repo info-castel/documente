@@ -53,6 +53,19 @@ Noua aplicație ar trebui să conțină o mare parte dintre lucrurile ce au fost
 
 #Buget
 
+Bugetul minim estimat pentru acest proiect este de **1000 euro**.
+
 ## Resurse necesare
 
+- certificat SSL
+- server web
+- design pentru aplicație
+- Amazon S3 pentru stocare de fișiere
+
 ## Cheltuieli
+
+O listă cu estimările pentru resursele necesare.
+
+| Resursă    | Cost estimat   |
+|------------|----------------|
+| design web | ~1000 euro     |
